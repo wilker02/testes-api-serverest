@@ -95,4 +95,4 @@ pm.collectionVariables.set("user_token", jsonToken[1]);
 
 **Wilker Fonseca**  
 Estudante de QA | Testes de API  
-[LinkedIn](https://linkedin.com) • [GitHub](https://github.com)
+[LinkedIn](https://www.linkedin.com/in/wilker-fonseca-martiniano-16a436159/) • [GitHub](https://github.com/wilker02)
